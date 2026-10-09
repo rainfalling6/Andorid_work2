@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./gradlew :app:testDebugUnitTest --console=plain)",
+      "Bash(grep -h \"testsuite \" app/build/test-results/testDebugUnitTest/*.xml)"
+    ]
+  }
+}

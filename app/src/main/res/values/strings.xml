@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">2024110518李逸凡</string>
+    <string name="area1_title">区1：动态添加 TextView</string>
+    <string name="btn_add">添加 TextView</string>
+    <string name="dynamic_tv_format">TextView 第 %1$d 个</string>
+    <string name="area2_title">区2：ProgramAdviser</string>
+    <string name="tv_result_hint">请点击上方专业按钮查询</string>
+    <string name="program_1">软件工程</string>
+    <string name="program_2">计算机科学</string>
+    <string name="program_3">网络工程</string>
+    <string name="program_4">人工智能</string>
+</resources>
